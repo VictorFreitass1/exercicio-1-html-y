@@ -1,10 +1,30 @@
+body {
+    background-color: rgb(138, 144, 230);
+}
 p {
-    background-color: rgb(140, 184, 223);
+    background-color: rgb(0, 0, 0);
     color: aliceblue;
 }
 
 a {
     color: black;
-    
+    font-weight: bold;
     font-size: 15px;
+}
+
+h2 {
+    color: pink
+}
+
+#idNome{
+    color: blue;
+}
+
+input{
+    color: brown;
+}
+
+.colorido{
+    color: orangered;
+    font-size: 30px;
 }
